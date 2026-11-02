@@ -93,6 +93,12 @@ A base apresenta desbalanceamento entre as classes. Além disso, os modelos fora
 
 Como evolução, recomenda-se testar validação cruzada, ajustar hiperparâmetros e avaliar os modelos em novos conjuntos de dados.
 
+## Apresentação em vídeo
+
+O vídeo executivo apresenta o problema de negócio, a análise dos dados, os modelos de Machine Learning, os resultados e as recomendações para a vinícola.
+
+**Assista à apresentação:** https://youtu.be/s-vYetqtEIE
+
 ### Autor
 
 Davi Barbosa Domingos
